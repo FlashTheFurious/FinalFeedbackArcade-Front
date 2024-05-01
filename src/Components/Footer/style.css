@@ -1,0 +1,8 @@
+.footercss {
+    flex-direction: column;
+}
+
+.footerinner{
+    display: flex ;
+    justify-content: center;
+}
